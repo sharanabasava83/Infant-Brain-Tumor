@@ -1,0 +1,4 @@
+glioma tumor
+meningioma tumor
+no tumor
+pituitary tumor
